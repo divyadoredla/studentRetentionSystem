@@ -1,2 +1,3 @@
 # studentRetentionSystem
-A student retention system using ML and DL predicts at-risk students by analyzing grades, attendance, and behavior. Models like Random Forest and Neural Networks enable early intervention to improve retention and academic success.
+A **Student Retention System** using **Machine Learning (ML)** and **Deep Learning (DL)** predicts which students are at risk of dropping out by analyzing academic, behavioral, and demographic data. ML models like **Random Forest**, **Logistic Regression**, and **XGBoost** identify key factors affecting retention, such as attendance, grades, and engagement. DL models like **Neural Networks** and **LSTMs** capture complex patterns and temporal trends in student performance. These systems help institutions take early interventions, improve student success, and enhance overall retention rates.
+
